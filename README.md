@@ -1,5 +1,5 @@
 ### Hi there 👋
-Sudais here. I am a software Engineer. I love working in Machine learning. I have participated in a number of competitions on Kaggle.
+Sudais here. I am a software Engineer. I love working in Machine learning.
 
 
 - 🌱 I’m currently learning ML with Python
