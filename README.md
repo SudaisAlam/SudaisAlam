@@ -35,8 +35,8 @@ Welcome to my GitHub portfolio! 🚀 I'm a **Machine Learning Engineer** with **
 ## 🤝 Let's Connect
 I'm always open to new opportunities and collaborations! Reach out to discuss exciting projects or ideas.  
 
-- **Email**: alamsudais72@gmail.com](mailto:alamsudais72@gmail.com)  
-- **LinkedIn**: alamsudais72(https://www.linkedin.com/in/sudais-alam/)  
+- **Email**: [alamsudais72@gmail.com](mailto:alamsudais72@gmail.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/sudais-alam/](https://www.linkedin.com/in/sudais-alam/)  
 
 ---
 
