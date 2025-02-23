@@ -6,10 +6,11 @@ Welcome to my GitHub portfolio! 🚀 I'm a **Machine Learning Engineer** with **
 
 ## 🔍 About Me
 - 🎓 **Education**:  
-  - Undergraduate in Computer Systems Engineering  
+  - Bachelors in Computer Systems Engineering  
 - 💼 **Professional Experience**:  
   - Developing LLM Powered Applications
   - Expert in LLM, Deep Learning and diffusion Models.
+  - Proficient in working with GPUs/HPUs/NPUs etc.
   - Proficient in building scalable web applications with **Django**, **FastAPI**, and **React**.  
 
 ---
@@ -17,9 +18,9 @@ Welcome to my GitHub portfolio! 🚀 I'm a **Machine Learning Engineer** with **
 ## 🔧 Skills
 - **Programming**: Python, C/C++  
 - **AI/ML**: LLMs, Deep Learning, Machine Learning, Diffusion Models  
-- **Frameworks/Tools**: LangChain, TensorFlow, PyTorch, HuggingFace, Django, FastAPI, Flask, Ollama, vLLM, LangGraph, Scikit Learn.
+- **Frameworks/Tools**: LangChain, TensorFlow, PyTorch, HuggingFace, Django, FastAPI, Flask, Ollama, vLLM, LangGraph, Scikit Learn, LlamaIndex, Llama.cp.
 - **Databases**: Chroma, FAISS, SQL, NoSQL, Pinecone
-- **Cloud/DevOps**: AWS, Docker, Kubernetes  
+- **Cloud/DevOps**: AWS, Docker, Kubernetes, GCP  
 - **Web Development**: Back-end development with Django, FastAPI, and Flask.
 
 
